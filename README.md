@@ -1,1 +1,1 @@
-Fyers api veersion 3
+Fyers api version 2
